@@ -1,0 +1,30 @@
+a:hover{
+  color: #FFD700;
+}
+nav{
+    background-color: #778899;
+}
+li {
+  display: inline-block;
+}
+.about{
+  margin-top: 8px;
+  width: 23%;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.hobby{
+  width: 23%;
+  font-size: 20px;
+}
+.activity{
+  width: 23%;
+  font-size: 20px;
+}
+.other{
+  width: 23%;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
